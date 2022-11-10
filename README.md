@@ -2,4 +2,4 @@ This game is inspired by the famous game [wordle](https://www.nytimes.com/games/
 - Programmed compelety in python
 - Level of difficulty : Begineer
 - Feel free to use the code 
-- It has no GUI all text based and has to be ran on a CLI
+- It has no GUI , its all a text based game and runs on CLI (i.e. Terminal)
